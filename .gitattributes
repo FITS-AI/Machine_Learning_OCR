@@ -1,2 +1,0 @@
-nutrition[[:space:]]table.v2i.tensorflow.zip filter=lfs diff=lfs merge=lfs -text
-model.tflite filter=lfs diff=lfs merge=lfs -text

@@ -135,7 +135,7 @@ Theodorus Limbong - [@linkedin](https://www.linkedin.com/in/theodorus-limbong-64
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 Acknowledge any individual, group, institution or service.
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
+* [off-nutrition-table-extractor](https://github.com/openfoodfacts/off-nutrition-table-extractor/tree/master)
 
 ## Thank you
 

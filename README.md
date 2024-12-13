@@ -62,7 +62,7 @@ This project combines OCR techniques with table extraction models to detect tabl
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In this section you should provide instructions on how to use this repository to recreate your project locally.
+In this section provide instructions on how to use this repository to recreate and running project locally.
 
 ### Dependencies
 

@@ -5,10 +5,10 @@
     <img src="images/gators.jpg" alt="Logo" width="150" height="150">
   </a> -->
 
-  <h3 align="center">README Template</h3>
+  <h3 align="center">Nutrition Table Extraction Model</h3>
 
   <p align="center">
-    Nutrition Table Extraction Model
+    Nutrition Table Extraction Model integrating with CUDA, cuDNN, TensorRT
     <br />
     <a href="https://github.com/FITS-AI/Machine_Learning_OCR/blob/main/table_extractor/table_extractor.ipynb"><strong>Go»</strong></a>
     <br />
@@ -98,12 +98,9 @@ For example, this is how you would list them:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/catiaspsilva/README-template.git
+   git clone https://github.com/FITS-AI/Machine_Learning_OCR.git
    ```
-2. Setup (and activate) your environment
-  ```sh
-  conda env create -f requirements.yml
-  ```
+2. Running the table_extractor.ipynb
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -113,11 +110,6 @@ Use this space to show useful examples of how a project can be used. For course 
 Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/catiaspsilva/README-template/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing

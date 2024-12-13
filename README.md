@@ -54,12 +54,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
+The Nutrition Table Extraction project aims to develop an efficient solution for automatically detecting and extracting nutrition information from scanned images of nutrition tables..
 
 [Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
 
-You can include tables or images to summarize your results when and if appropriate.
-
+This project combines OCR techniques with table extraction models to detect tables within images and extract text in a structured manner, it can handle different types of table formats
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -70,14 +69,31 @@ In this section you should provide instructions on how to use this repository to
 Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
 
 For example, this is how you would list them:
-* Transformers 4.8.0
+* Pandas 2.2.3
   ```sh
-  conda install -c conda-forge transformers
+  pip install pandas==2.2.3
   ```
-* OpenCV 4.5.2
+* OpenCV 1.0.0
   ```sh
-  conda install -c conda-forge opencv
+  pip install cv==1.0.0
   ```
+* Numpy 1.26.4
+  ```sh
+  pip install numpy==1.26.4
+  ```
+* Matplotlib 3.9.2
+  ```sh
+  pip install matplotlib==3.9.2
+  ```
+* Albumentations 3.9.2
+  ```sh
+  pip install albumentations==1.4.21
+  ```
+* Tensorflow 2.10.1
+  ```sh
+  pip install tensorflow==2.10.1
+  ```
+  
 ### Alternative: Export your Environment
 
 Alternatively, you can export your Python working environment, push it to your project's repository and allow users to clone it locally. This way, anyone can install it and they will have all dependencies needed. Here is how you export a copy of your Python environment:

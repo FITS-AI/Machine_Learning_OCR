@@ -8,16 +8,16 @@
   <h3 align="center">README Template</h3>
 
   <p align="center">
-    A README template to jumpstart your projects!
+    Nutrition Table Extraction Model
     <br />
-    <a href="https://github.com/catiaspsilva/README-template/blob/main/images/docs.txt"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/FITS-AI/Machine_Learning_OCR/blob/main/table_extractor/table_extractor.ipynb"><strong>Go»</strong></a>
     <br />
     <br />
     <a href="#usage">View Demo</a>
     ·
-    <a href="https://github.com/catiaspsilva/README-template/issues">Report Bug</a>
+    <a href="https://github.com/FITS-AI/Machine_Learning_OCR/issues">Report Bug</a>
     ·
-    <a href="https://github.com/catiaspsilva/README-template/issues">Request Feature</a>
+    <a href="https://github.com/FITS-AI/Machine_Learning_OCR/issues">Request Feature</a>
   </p>
 </p>
 
